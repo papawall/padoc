@@ -4,28 +4,26 @@
 ### ⚠️除**<small><u>新手推荐</u>**</small>外,其他教程需要动点小脑筋哦~❗️
 ---
 #### 🆕💯[Windows 系列教程 xp & win7 & win10 & win11](./win/index.md)
-  - [Clash](./win/clash.md)
+  - [Clash(新手推荐)](./win/clash.md)
   - [v2rayN](./win/v2rayn.md)
   - [Mihomo Party](./win/mp.md)
-  - [DigiLink 🔥(新手推荐)](./win/digilink.md)
+  <!--- [DigiLink 🔥(新手推荐)](./win/digilink.md)-->
 ---
 
 #### 🆕💯[Mac 系列教程 支持M & Inter处理器](./mac/index.md)
-  - [Clash pro X](./mac/clash.md)
+  - [Clash pro X(新手推荐)](./mac/clash.md)
   - [Mihomo Party](./mac/mp.md)
-  - [DigiLink 🔥(新手推荐)](./mac/digilink.md)
+  <!--- [DigiLink 🔥(新手推荐)](./mac/digilink.md)-->
 ---
 
 #### 🆕💯[Android 系列教程.支持华为鸿蒙非纯血版](./android/index.md)
-  - [Clash](./android/clash.md)
-  - [DigiLink 🔥(新手推荐)](./android/digilink.md)
+  - [Clash(新手推荐)](./android/clash.md)
+  - [NekoBox](./android/nekobox.md)
 ---
 
 #### 🆕💯[iOS 系列教程](./ios/index.md)
 
-- [Shadowrocket](./ios/sr.md)
-- ❌singbox 搁浅一下
-- [DigiLink🔥(新手推荐)](./ios/digilink.md)
+- [Shadowrocket(小火箭)](./ios/sr.md)
 
 ---
 

@@ -21,13 +21,13 @@
 
 ---
 
-## ![Image title](../../assets/photo/win/digilink/digilinklogo.png){ width="40" }[3.DigiLink 🔗 点此查看教程](./digilink.md)🆕
+<!--## ![Image title](../../assets/photo/win/digilink/digilinklogo.png){ width="40" }[3.DigiLink 🔗 点此查看教程](./digilink.md)🆕
 
     对新手极其友好的一款软件 直接登录即可使用
     点击即可连接 无需配置登录网页繁琐操作
     支持app一键购买&续费
     
----
+----->
 
 # 注意事项:
 
