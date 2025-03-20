@@ -23,8 +23,8 @@
 
 #### 🆕💯[iOS 系列教程](./ios/index.md)
 
-- [Shadowrocket(小火箭)](./ios/sr.md)
-
+- [Shadowrocket](./ios/sr.md)
+- [DigiLink](./ios/digilink.md)
 ---
 
 
