@@ -14,6 +14,8 @@
 
 ### 2️⃣:官网地址:
 
+!!! warning "首先你需要注册好账户,购买好相应的订阅套餐,不然无法显示节点."
+
 官网地址1 [https://papawall.pro](https://papawall.pro)
 
 官网地址2 [https://papawall.lol](https://papawall.lol)[^2] 

@@ -17,8 +17,6 @@
 
 ### 2️⃣:登录官网[^2] 
 
-!!! note "首先你需要注册好账户,购买好相应的订阅套餐(开心就好)"
-
 官网地址1 [https://papawall.pro](https://papawall.pro)
 
 官网地址2 [https://papawall.lol](https://papawall.lol)

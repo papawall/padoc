@@ -10,13 +10,17 @@
     
     此客户端更新频繁,而且可以备份设置到你自己的WebDav 比较方便 与mac平台通用.
     
-[:material-arrow-down:{ .plane } 点此下载 :material-arrow-down:{ .plane }](https://down.papawall.cc/mp_windows-1.5.2-x64-setup.exe){ .md-button }[^1] 
+[:material-arrow-down:{ .plane } Win7_64位点此下载 :material-arrow-down:{ .plane }](https://down.papawall.cc/mp_windows7x32.exe){ .md-button }
+
+[:material-arrow-down:{ .plane } Win7_32位点此下载 :material-arrow-down:{ .plane }](https://down.papawall.cc/mp_windows7x64.exe){ .md-button }
+
+[:material-arrow-down:{ .plane } Win10_64位以上点此下载 :material-arrow-down:{ .plane }](https://down.papawall.cc/mp_windows10x64.exe){ .md-button }[^1] 
 
 ---
 
 ### 2️⃣:登录官网[^2] 
 
-!!! note "首先你需要注册好账户,购买好相应的订阅套餐(开心就好)"
+!!! warning "首先你需要注册好账户,购买好相应的订阅套餐,不然无法显示节点."
 
 官网地址1 [https://papawall.pro](https://papawall.pro)
 
@@ -80,5 +84,5 @@
 !!! bug "90%的问题基本都可以解决,请仔细检查呀 如果解决不了请联系客服"
 
 
-[^1]: 截止发稿为止客户端版本号为1.5.2 预计安装后会提示更新,直接更新即可.
+[^1]: 截止发稿为止客户端版本号为1.7.3 预计安装后会提示更新,直接更新即可.
 [^2]: 官网地址 [https://papawall.pro](https://papawall.pro)

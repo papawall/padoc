@@ -10,9 +10,11 @@
     
     最简单的客户端,只需要在软件里面注册 登录 购买好订阅即可使用.
     
-[:material-arrow-down:{ .plane } 点此下载 :material-arrow-down:{ .plane }](https://down.papawall.cc/Digilink_1.3.10.apk){ .md-button }[^1] 
+[:material-arrow-down:{ .plane } 点此下载 :material-arrow-down:{ .plane }](https://down.papawall.cc/Digilink.apk){ .md-button }[^1] 
 
 ### 2️⃣:官网地址:
+
+!!! warning "首先你需要注册好账户,购买好相应的订阅套餐,不然无法显示节点."
 
 官网地址1 [https://papawall.pro](https://papawall.pro)
 
