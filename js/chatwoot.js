@@ -1,5 +1,5 @@
 (function(d, t) {
-    var BASE_URL = "https://app.chatwoot.com";
+    var BASE_URL = "https://chat.papawall.cc";
     var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
     g.src = BASE_URL + "/packs/js/sdk.js";
     g.defer = true;
@@ -8,7 +8,7 @@
     g.onload = function() {
       // 初始化 Chatwoot SDK
       window.chatwootSDK.run({
-        websiteToken: 't7rPxeAxpbUGMZuPYFkTdfnt',
+        websiteToken: 'Pusn6akwV44QLaxnY8nc1AXn',
         baseUrl: BASE_URL
       });
   
